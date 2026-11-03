@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://droitsdelenfant.nvo987.fr/sitemap.xml
